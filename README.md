@@ -1,2 +1,2 @@
-# Full-Stack
-This course consists of various projects based on full stack from basics..
+# FortFolio
+This repository consists of files which are useful for creating a basic portfolio using HTML.
